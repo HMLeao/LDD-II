@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livraria>
+    <livro category="COOKING">
+        <title lang="en">Everyday Italian</title>
+        <author>
+            <name>J K. Rowling</name>
+            <country>USA</country>
+        </author>
+        <year>2005</year>
+        <price>30.00</price>
+        <status>OFF</status>
+    </livro>
+    <livro category="CHILDREN">
+        <title lang="en">Harry Potter</title>
+        <author>
+            <name>J K. Rowling</name>
+            <country>USA</country>
+        </author>
+        <year>2005</year>
+        <status>ON</status>
+        <price>29.99</price>
+    </livro>
+    <livro category="WEB">
+        <author>
+            <name>Erik T. Ray</name>
+            <country>Canada</country>
+        </author>
+        <year>2003</year>
+        <price>39.95</price>
+        <title lang="en">Learning XML</title>
+        <status>ON</status>
+    </livro>
+    <livro category="WEB">
+        <title lang="en">Learning XML DTD</title>
+        <author>Erik T. Ray</author>
+        <status>ON</status>
+        <year>2005</year>
+        <price>32.50</price>
+    </livro>
+</livraria>
